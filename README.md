@@ -1,2 +1,2 @@
 # PowerBi-Project
-This Project contains analysis of Indian Smartphone market by Data Preprocessing and Visualizing through PowerBi visual Tools
+This Project contains analysis of sales of different Industries by Data Preprocessing and Visualizing through PowerBi visual Tools.. The motive is to learn the process of Data Cleaning and Visualization using PowerBi tools which helps me to build these projects...
